@@ -1,0 +1,38 @@
+[
+  {
+    "goal": "Analyze Stripe's competitive landscape in the developer payments market",
+    "expected_subject": "Stripe",
+    "expected_tools": ["web_search", "web_fetch"],
+    "min_competitors": 1
+  },
+  {
+    "goal": "Analyze Adyen's competitive landscape",
+    "expected_subject": "Adyen",
+    "expected_tools": ["web_search", "web_fetch"],
+    "min_competitors": 1
+  },
+  {
+    "goal": "Compare payment infrastructure providers for startups using Paddle",
+    "expected_subject": "Paddle",
+    "expected_tools": ["web_search", "web_fetch"],
+    "min_competitors": 1
+  },
+  {
+    "goal": "Analyze Braintree's competitive landscape in online payments",
+    "expected_subject": "Braintree",
+    "expected_tools": ["web_search", "web_fetch"],
+    "min_competitors": 1
+  },
+  {
+    "goal": "Research the competitive landscape for Stripe with a focus on pricing",
+    "expected_subject": "Stripe",
+    "expected_tools": ["web_search", "web_fetch"],
+    "min_competitors": 1
+  },
+  {
+    "goal": "competitive landscape review",
+    "expected_subject": null,
+    "expected_tools": ["web_search", "web_fetch"],
+    "min_competitors": 1
+  }
+]

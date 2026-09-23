@@ -1,0 +1,11 @@
+# Reference config (env vars take precedence; see .env.example).
+failure_injection:
+  enabled: false
+  mode: malformed_search_response  # malformed_search_response | fetch_timeout | rate_limit
+
+retries:
+  search: 2
+  fetch: 2
+
+http:
+  timeout_seconds: 15
