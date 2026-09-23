@@ -9,7 +9,7 @@ sources, validates evidence, and produces a structured, cited Markdown
 report — with deterministic recovery when a tool call fails.
 
 ```
-$ python -m src.main --goal "Analyze Stripe's competitive landscape" --quiet --out report.md
+$ python -m src.main --goal "Analyze Stripe's competitive landscape" --out report.md
 
 
 PLAN
